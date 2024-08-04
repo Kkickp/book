@@ -11,14 +11,14 @@ document.addEventListener('DOMContentLoaded', () => {
         { time: 0, text: "hai?" },
         { time: 3, text: "sedang apa?" },
         { time: 6, text: "how's ur day?" },
-        { time: 9, text: "without me?" },
+        { time: 9, text: "aku selalu berdoa agar harimu selalu baik" },
         { time: 16, text: "cantik ya?" },
         { time: 20, text: "ya, u are always pretty, always" },
         { time: 23, text: "i love the way you laugh, cute" },
         { time: 27, text: "this is a photo of the first time we met. If you ask me what my first impression was when I met you, I will always answer, cute." },
         { time: 33, text: "this is the second time we'll meet, lucu ya? suka gigit sedotan wk" },
         { time: 36, text: "and yes, this is our last meet" },
-        { time: 45, text: "bahagia selalu ya, ren?. aku juga bahagia kalo kamu bahagia, hehe" },
+        { time: 40, text: "bahagia selalu ya, ren?. aku juga bahagia kalo kamu bahagia, hehe" },
     ];
 
     playPauseButton.addEventListener('click', () => {
