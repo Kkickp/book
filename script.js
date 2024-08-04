@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { time: 27, text: "this is a photo of the first time we met. If you ask me what my first impression was when I met you, I will always answer, cute." },
         { time: 33, text: "this is the second time we'll meet, lucu ya? suka gigit sedotan wk" },
         { time: 36, text: "and yes, this is our last meet" },
-        { time: 45, text: "I like your eyes, your nose, your smile, your hair, your voice, your body, your kiss and everything about you. jadi kapan mau balik, an?" },
+        { time: 45, text: "bahagia selalu ya, ren?. aku juga bahagia kalo kamu bahagia, hehe" },
     ];
 
     playPauseButton.addEventListener('click', () => {
